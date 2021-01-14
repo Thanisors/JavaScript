@@ -1,4 +1,4 @@
-const name = '';
+const xname;
 
 if(name){
     console.log('We have a name!');

@@ -1,4 +1,4 @@
-const status = 500;
+const status = 200;
 
 if(status === 200){
     console.log('OK!');

@@ -4,5 +4,6 @@ function test(t){
     }
     return t;
 }
-let x;
+
+let x ;
 console.log(test(x));

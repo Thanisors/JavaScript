@@ -11,5 +11,5 @@ console.log(`Formatting in ${str1} is ${str2}!`);
 console.log("\n**********Expressions in template literals**********\n");
 
 let bool1 = true;
-console.log(`1 + 1 is ${1 + 1}`);
-console.log(`The opposite of true is ${!bool1}`);
+console.log(`1 + 1 is ${2}`);
+console.log(`The opposite of ture is ${!bool1}`);
